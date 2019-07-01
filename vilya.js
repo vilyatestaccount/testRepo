@@ -28,11 +28,6 @@ logger.log('Here here here here kjjjkjkjkjkjkjkj');
 logger.log('ppppppppppoooooooooo');
 logger.log('55555555555');
 logger.log('eeeeeeeeeee');
-logger.log('9090909090900');
-logger.log('9090909090900');
-logger.log('9090909090900');
-logger.log('9090909090900');
-logger.log('9090909090900');
 
 
 
