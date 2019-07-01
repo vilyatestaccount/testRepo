@@ -24,10 +24,7 @@ var logger = Logger.createLogger('d8e14421399a44a9a35dfc49c7f5f0aa', options);
 var logger3 = Logger.createLogger('484dfb3db42e467598d805e719080907', options);
 
 
-logger.log('Here here here here kjjjkjkjkjkjkjkj');
-logger.log('ppppppppppoooooooooo');
-logger.log('55555555555');
-logger.log('eeeeeeeeeee');
+
 
 
 
