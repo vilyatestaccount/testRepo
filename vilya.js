@@ -45,7 +45,7 @@ logger.info('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
 logger.info('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
 logger.info('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
 
-console.log(";jpij;kj;klj;j;jk")
+
 
 logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
 logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
