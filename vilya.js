@@ -41,12 +41,6 @@ logger.log('9090909090900');
 logger.info('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
 
 
-
-
-logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
-logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
-logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
-logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
 logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
 logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
 logger3.log('ibmibmibmibmibmibmibmibmibmibmibmibmibmibmibmibm')
