@@ -29,11 +29,11 @@ var logger3 = Logger.createLogger('484dfb3db42e467598d805e719080907', options);
 
 
 
-Logger.flushAll((r, k) => {
-    console.log("****")
-    console.log(r)
-    console.log(k)
-});
+// Logger.flushAll((r, k) => {
+//     console.log("****")
+//     console.log(r)
+//     console.log(k)
+// });
 
 
 // logger.info('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
