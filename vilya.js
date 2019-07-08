@@ -37,7 +37,7 @@ var logger3 = Logger.createLogger('484dfb3db42e467598d805e719080907', options);
 
 
 // logger.info('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
-// logger.io('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
+// loggero('mknkjsdfkjhsdlkjfhksjhdfkhdkshfkshfkjshkdjfhks')
 
 
 
